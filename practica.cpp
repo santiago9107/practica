@@ -5,7 +5,7 @@
 using namespace std;
 
 /* This small program asks the user to introduce a number and counts the times
-the user introduces a number different to zero*/
+the user introduces numbers different to zero*/
 
 int number;
 int i = 0;
